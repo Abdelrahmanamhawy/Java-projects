@@ -1,0 +1,1 @@
+This is the observer design pattern in action,a thread notifying another thread when to execute depending on the bussiness logic in the program.
