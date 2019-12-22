@@ -1,1 +1,3 @@
 This is the observer design pattern in action,a thread notifying another thread when to execute depending on the bussiness logic in the program.
+Here in this example, an AND gate is constructed using the signal class,and each time a signal changes it value (from 0 to 1 for example) , 
+the AND gate will receive the respone and change its output
